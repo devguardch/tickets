@@ -23,6 +23,6 @@ Passwords, API keys, or personal data of your employees or customers. Blur them 
 
 ## What happens next
 
-We read every ticket. You will get a reply in the ticket itself, so keep notifications on for it. Labels like `schnell` or `wochen` are our internal estimate of effort — you don't need to set anything.
+We read every ticket. You will get a reply in the ticket itself, so keep notifications on for it. Labels with "effort" are our internal estimate of effort — you don't need to set anything.
 
 For anything urgent or confidential, email [support@devguard.ch](mailto:support@devguard.ch) instead.
